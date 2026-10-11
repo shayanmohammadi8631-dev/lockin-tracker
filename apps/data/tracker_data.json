@@ -1,0 +1,105 @@
+{
+  "settings": {
+    "start_mode": "first_log",
+    "custom_start_date": null,
+    "tracking_start_date": null,
+    "user_name": "",
+    "target_end_date": null
+  },
+  "entries": {},
+  "resources": [],
+  "projects": [],
+  "goals": {
+    "long_term": [],
+    "monthly_checkpoints": [],
+    "quarterly_milestones": []
+  },
+  "achievements": [],
+  "skills": {
+    "Programming": {
+      "level": "Not Started",
+      "notes": "",
+      "evidence": []
+    },
+    "Algorithms": {
+      "level": "Not Started",
+      "notes": "",
+      "evidence": []
+    },
+    "Data Structures": {
+      "level": "Not Started",
+      "notes": "",
+      "evidence": []
+    },
+    "Mathematics": {
+      "level": "Not Started",
+      "notes": "",
+      "evidence": []
+    },
+    "Web Development": {
+      "level": "Not Started",
+      "notes": "",
+      "evidence": []
+    },
+    "Software Engineering": {
+      "level": "Not Started",
+      "notes": "",
+      "evidence": []
+    },
+    "Git / GitHub": {
+      "level": "Not Started",
+      "notes": "",
+      "evidence": []
+    },
+    "Databases": {
+      "level": "Not Started",
+      "notes": "",
+      "evidence": []
+    },
+    "Operating Systems": {
+      "level": "Not Started",
+      "notes": "",
+      "evidence": []
+    },
+    "Networking": {
+      "level": "Not Started",
+      "notes": "",
+      "evidence": []
+    },
+    "AI / ML": {
+      "level": "Not Started",
+      "notes": "",
+      "evidence": []
+    },
+    "Research": {
+      "level": "Not Started",
+      "notes": "",
+      "evidence": []
+    },
+    "Communication": {
+      "level": "Not Started",
+      "notes": "",
+      "evidence": []
+    },
+    "Systems / Low-level": {
+      "level": "Not Started",
+      "notes": "",
+      "evidence": []
+    }
+  },
+  "scholarships": [],
+  "quick_links": [
+    {
+      "id": "1",
+      "name": "LeetCode",
+      "url": "https://leetcode.com",
+      "icon": "💻"
+    },
+    {
+      "id": "2",
+      "name": "GitHub",
+      "url": "https://github.com",
+      "icon": "🐙"
+    }
+  ]
+}
